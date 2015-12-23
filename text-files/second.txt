@@ -1,1 +1,1 @@
-null 
+This is second txt file
